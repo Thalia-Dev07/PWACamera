@@ -29,7 +29,7 @@ detectButton.addEventListener('click', () => {
      
 
       if (isBlack(red, green, blue)) {
-        markBLackBlock(x, y);
+        markBlackBlock(x, y);
       }
     }
   }
